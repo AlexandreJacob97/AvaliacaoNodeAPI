@@ -1,0 +1,24 @@
+{
+  "name": "avaliacaonodeapi",
+  "version": "1.0.0",
+  "description": "2ª avaliação de Back-end",
+  "homepage": "https://github.com/AlexandreJacob97/AvaliacaoNodeAPI#readme",
+  "bugs": {
+    "url": "https://github.com/AlexandreJacob97/AvaliacaoNodeAPI/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlexandreJacob97/AvaliacaoNodeAPI.git"
+  },
+  "license": "ISC",
+  "author": "Alexandre",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "dev":"node --watch index.js",
+    "test": "jest"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
